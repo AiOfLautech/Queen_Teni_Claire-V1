@@ -44,26 +44,26 @@ global.socialm = "GitHub: Veran350" //ur github or insta name
 global.location = "lagos, abuja, ogun state" //ur location
 
 //new
-global.botname = 'QUEEN_TENI_CLAIRE-V1' //ur bot name
-global.ownernumber = ['2347082664317'] //ur owner number, dont add more than one
-global.ownername = 'VERAN' //ur owner name
-global.websitex = "https://github.com/Veran350"
-global.wagc = "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s"
+global.botname = 'Ai Of Lautech' //ur bot name
+global.ownernumber = ['2348089336992'] //ur owner number, dont add more than one
+global.ownername = 'Ai Of Lautech' //ur owner name
+global.websitex = "https://github.com/AiOfLautech"
+global.wagc = "https://whatsapp.com/channel/0029VaXKAEoKmCPS6Jz7sw0N"
 global.themeemoji = '⛩'
 global.wm = "Veran Bot Inc."
-global.botscript = 'https://github.com/Veran350' //script link
+global.botscript = 'https://github.com/Ai Of Lautech' //script link
 global.packname = "QUEEN_TENI_CLAIRE"
 global.author = "MΛDΣ BY VERAN"
 global.creator = "https://wa.me/+2347082664317"
 global.xprefix = '.'
-global.premium = ["7082664317"] // Premium User
+global.premium = ["2348089336992] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.antidelete = false //set anti delete 
+global.antidelete = true //set anti delete 
 
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
